@@ -1,3 +1,4 @@
+# [「阅读」源仓库](http://www.yck2.com)
 # [「阅读」APP 源](https://legado.aoaostar.com)
 
 [![GitHub license](https://img.shields.io/badge/license-AGPL--3.0-orange?style=flat-square&color=0f6adb&logo=github)](https://github.com/aoaostar/legado/)
@@ -177,6 +178,14 @@ Git仓库不支持一键导入，请前往 [legado.aoaostar.com](https://legado.
     + 上一次同步状态: 同步成功, 共 3897 条
     + 更新时间: 2023-09-20 17:59:14
     + 同步时间: 2023-10-11 08:44:01
+****
+
+* 阅读书源-校正
+    + [访问直链](https://github.moeyy.xyz/https://raw.githubusercontent.com/wle2015/yuedu/main/cache/阅读书源-更新校正711个.json)
+    + [一键导入](legado://import/bookSource?src=https://github.moeyy.xyz/https://raw.githubusercontent.com/wle2015/yuedu/main/cache/阅读书源-更新校正711个.json)
+    + 上一次同步状态: 同步成功, 共 771 条
+    + 更新时间: 2023-07-01 17:59:14
+    + 同步时间: 2023-07-01 08:44:01
 
 </details>
 
@@ -325,7 +334,15 @@ Git仓库不支持一键导入，请前往 [legado.aoaostar.com](https://legado.
     + 同步时间: 2023-10-11 08:44:01
 
 </details>
+<h2 id="Rss规则">Rss规则</h2>
+<details>
+<summary>点击展开</summary>
+            
+* 书源 🔥
+    + [访问直链](https://shuyuan.mgz6.cc/shuyuan/e9e28dd9089557c0bca0ded7eb03df9b.json)
+    + [一键导入](legado://import/rssSource?src=https://shuyuan.mgz6.cc/shuyuan/e9e28dd9089557c0bca0ded7eb03df9b.json)
 
+</details>
 ****
 
 Thanks for stopping by! 😁
