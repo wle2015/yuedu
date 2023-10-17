@@ -186,6 +186,15 @@ Git仓库不支持一键导入，请前往 [legado.aoaostar.com](https://legado.
     + 上一次同步状态: 同步成功, 共 771 条
     + 更新时间: 2023-07-01 17:59:14
     + 同步时间: 2023-07-01 08:44:01
+ ****
+
+* 阅读书源-整合校正
+    + [访问直链](https://github.moeyy.xyz/https://raw.githubusercontent.com/wle2015/yuedu/main/cache/YDYJY.json)
+    + [一键导入](legado://import/bookSource?src=https://github.moeyy.xyz/https://raw.githubusercontent.com/wle2015/yuedu/main/cache/YDYJY.json)
+    + 上一次同步状态: 同步成功, 共 2571 条
+    + 更新时间: 2023-10-16
+    + 同步时间: 2023-10-16
+ 
 
 </details>
 
